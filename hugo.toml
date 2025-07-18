@@ -6,7 +6,7 @@ pagination.pagerSize = 5
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
-  showMenuItems = 1
+  showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
 
